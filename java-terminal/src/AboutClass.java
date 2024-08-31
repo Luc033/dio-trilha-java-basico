@@ -1,0 +1,2 @@
+public class AboutClass {
+}

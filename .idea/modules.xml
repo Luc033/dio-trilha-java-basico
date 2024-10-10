@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/AgendaDeContatos/AgendaDeContatos.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/AgendaDeContatos/AgendaDeContatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/ConjuntoDeConvidados/ConjuntoDeConvidados.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/ConjuntoDeConvidados/ConjuntoDeConvidados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/ConjuntoDePalavrasUnicas/ConjuntoDePalavrasUnicas.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/ConjuntoDePalavrasUnicas/ConjuntoDePalavrasUnicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesafioIphone/DesafioIphone.iml" filepath="$PROJECT_DIR$/DesafioIphone/DesafioIphone.iml" />
@@ -13,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/List/Ex03/Ex03.iml" filepath="$PROJECT_DIR$/collections-java-api/List/Ex03/Ex03.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/List/Ex04/Ex04.iml" filepath="$PROJECT_DIR$/collections-java-api/List/Ex04/Ex04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exemplos/Exemplos.iml" filepath="$PROJECT_DIR$/Exemplos/Exemplos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/ListaDeTarefas/ListaDeTarefas.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/ListaDeTarefas/ListaDeTarefas.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/List/Ordenacao/Ordenacao.iml" filepath="$PROJECT_DIR$/collections-java-api/List/Ordenacao/Ordenacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/List/SomaNumeros/SomaNumeros.iml" filepath="$PROJECT_DIR$/collections-java-api/List/SomaNumeros/SomaNumeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/collections-java-api.iml" filepath="$PROJECT_DIR$/collections-java-api/collections-java-api.iml" />
@@ -21,9 +24,6 @@
       <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
       <module fileurl="file://$PROJECT_DIR$/tratamento-excecao/tratamento-excecao.iml" filepath="$PROJECT_DIR$/tratamento-excecao/tratamento-excecao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/untitled2/untitled2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/untitled3/untitled3.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/untitled3/untitled3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/untitled4/untitled4.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/untitled4/untitled4.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/untitled5/untitled5.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/untitled5/untitled5.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/untitled6/untitled6.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/untitled6/untitled6.iml" />
     </modules>

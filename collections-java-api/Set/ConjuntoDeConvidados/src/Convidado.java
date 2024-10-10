@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 public class Convidado {
     private String nome;
     private int codigo;
@@ -29,5 +31,18 @@ public class Convidado {
                 "nome='" + nome + '\'' +
                 ", codigo=" + codigo +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Convidado)) return false;
+        Convidado convidado = (Convidado) o;
+        return getCodigo() == convidado.getCodigo();
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hashCode(getCodigo());
     }
 }

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Map/AgendaDeContato/AgendaDeContato.iml" filepath="$PROJECT_DIR$/collections-java-api/Map/AgendaDeContato/AgendaDeContato.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/AgendaDeContatos/AgendaDeContatos.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/AgendaDeContatos/AgendaDeContatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/CadastroDeProdutos/CadastroDeProdutos.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/CadastroDeProdutos/CadastroDeProdutos.iml" />
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/Set/ConjuntoDeConvidados/ConjuntoDeConvidados.iml" filepath="$PROJECT_DIR$/collections-java-api/Set/ConjuntoDeConvidados/ConjuntoDeConvidados.iml" />
@@ -26,6 +27,11 @@
       <module fileurl="file://$PROJECT_DIR$/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/java-terminal/java-terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
       <module fileurl="file://$PROJECT_DIR$/tratamento-excecao/tratamento-excecao.iml" filepath="$PROJECT_DIR$/tratamento-excecao/tratamento-excecao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Map/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/collections-java-api/Map/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Map/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/collections-java-api/Map/untitled2/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Map/untitled3/untitled3.iml" filepath="$PROJECT_DIR$/collections-java-api/Map/untitled3/untitled3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Map/untitled4/untitled4.iml" filepath="$PROJECT_DIR$/collections-java-api/Map/untitled4/untitled4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections-java-api/Map/untitled5/untitled5.iml" filepath="$PROJECT_DIR$/collections-java-api/Map/untitled5/untitled5.iml" />
     </modules>
   </component>
 </project>

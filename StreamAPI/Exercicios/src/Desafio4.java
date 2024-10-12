@@ -12,10 +12,12 @@ public class Desafio4 {
 
         List<Integer> listaRemover = numeros.stream().filter(numNegativo).toList();
 
+
         listaRemover.stream().forEach(System.out::println);
         numeros.removeAll(listaRemover);
         System.out.println("Removido");
         numeros.stream().forEach(System.out::println);
+
 
 
 
